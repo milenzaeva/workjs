@@ -1,0 +1,25 @@
+    <script type="text/javascript">
+    var portal = 'us';
+    var theme = '9-coop';
+    var template = 'surbox';
+    var brand_country = 'US';
+    var dayNames = Array('Sunday', 'Monday', 'Tueday', 'Wednesday', 'Thursday', 'Friday', 'Saturday');
+    var monthNames = new Array(
+      'January',
+      'February',
+      'March',
+      'April',
+      'May',
+      'June',
+      'July',
+      'August',
+      'September',
+      'October',
+      'November',
+      'December',
+    );
+    var img_regalo = './principal-it.png';
+    var minutos_y = 'Minute ';
+    var segundos = 'Second';
+    var modalOptions = { backdrop: 'static', keyboard: false };
+  </script>
